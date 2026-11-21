@@ -8,3 +8,6 @@ github_settings.py
 db.save
 .ve*
 migrations
+
+# idea
+.idea
